@@ -1,6 +1,6 @@
 {
   "name": "react-native-advanced-player",
-  "version": "2.0.17",
+  "version": "2.0.26",
   "description": "Modular react-native player",
   "main": "lib/index.js",
   "directories": {
